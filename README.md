@@ -1,0 +1,1 @@
+# yaml-service-hpa-ingress
